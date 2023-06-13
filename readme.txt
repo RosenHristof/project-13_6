@@ -1,2 +1,3 @@
 This is an initial readme file
-secon line
+second line
+third line
